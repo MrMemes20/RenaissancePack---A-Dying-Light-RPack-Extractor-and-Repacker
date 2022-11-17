@@ -5,6 +5,8 @@ In order to use the program correctly, you must do the following:
 -If the texture is a regular texture, make sure you save it as DXT1
 -If the texture is a NRM or SPC texture, you must save it as DXT5
 -Make sure the name of your texture is "extractionrpack.dds"
+-Make sure that common_textures_0_pc.rpack is in the same folder as the program for extraction
+-Make sure that extractionrpack.dds is in the same folder as the program for repacking
 
 Please note the following:
 -This only works with common_textures_0_pc.rpack as of now
